@@ -1,0 +1,4 @@
+tensorflow
+pymongo
+flask
+numpy
