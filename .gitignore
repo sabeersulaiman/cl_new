@@ -2,6 +2,7 @@ output_graph.pb
 output_labels.txt
 retraining-example.py
 images/*
+!images/s.txt
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
